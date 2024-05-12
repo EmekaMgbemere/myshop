@@ -1,0 +1,6 @@
+{
+  "scripts": {
+    "server": "json-server --watch mockData.json --port 6969",
+    "client": "npm start --prefix client"
+  }
+}
